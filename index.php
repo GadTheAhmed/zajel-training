@@ -18,4 +18,5 @@ function gedo()
 function hammad()
 {
     echo 'Welcome Zajel Training';
+    echo 'Add another line to my function';
 }
