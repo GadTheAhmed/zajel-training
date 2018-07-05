@@ -3,6 +3,7 @@
 function mai()
 {
 //Mai Code Will Be here
+    echo 'Hi Guys';
 }
 
 
