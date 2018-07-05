@@ -14,8 +14,7 @@ function gedo()
 
 
 
-
 function hammad()
 {
-//Hammad Code Will Be here
+    echo 'Welcome Zajel Training';
 }
