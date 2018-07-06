@@ -10,6 +10,7 @@ function mai()
 
 function gedo()
 {
+    echo 'abo hammad';
   echo 'mai * xx * hhhhhhhhhhhhhhhh';
 }
 
