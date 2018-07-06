@@ -3,19 +3,20 @@
 function mai()
 {
 //Mai Code Will Be here
+    echo 'Hi Guys';
 }
 
 
 
 function gedo()
 {
-//Gedo Code Will Be here
+  echo 'gedo';
 }
-
 
 
 
 function hammad()
 {
-//Hammad Code Will Be here
+    echo 'Welcome Zajel Training';
+    echo 'Add another line to my function';
 }
