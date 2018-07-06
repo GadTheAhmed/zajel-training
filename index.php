@@ -1,20 +1,18 @@
 <?php 
 
-function xx()
-{
-//Mai Code Will Be here
-    echo 'Hi Guys' ;
-}
-
-
-
 function gedo()
 {
-  echo 'mohen';  
+
+  echo 'mohemed';
   echo 'aaa';
   echo 'hello';  
   echo 'abo hammad';
   echo 'mai * xx * hhhhhhhhhhhhhhhh';
+
+  echo  'ebo' != 'baskota';
+  echo ' abo' == 'hadota';
+
+
 }
 
 
@@ -29,4 +27,6 @@ function hammad()
     $gitCommands = 'git init';
     $gitCommands.= ', git add .';
     $gitCommands.= ', git commit -m your commit';
+    echo 'OH my god Gedo hack me .....................................';
+
 }
