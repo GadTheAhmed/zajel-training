@@ -9,7 +9,7 @@ function mai()
 
 function gedo()
 {
-//Gedo Code Will Be here
+    echo 'gedo come back';
 }
 
 
