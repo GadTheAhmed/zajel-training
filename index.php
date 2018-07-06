@@ -10,7 +10,8 @@ function mai()
 
 function gedo()
 {
-//Gedo Code Will Be here
+    echo 'abo hammad';
+  echo 'mai * xx * hhhhhhhhhhhhhhhh';
 }
 
 
