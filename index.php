@@ -10,8 +10,8 @@ function xx()
 
 function gedo()
 {
-
-echo 'aaa';
+  echo 'mohen';  
+  echo 'aaa';
   echo 'hello';  
   echo 'abo hammad';
   echo 'mai * xx * hhhhhhhhhhhhhhhh';
