@@ -1,16 +1,18 @@
 <?php 
 
-function mai()
+function xx()
 {
 //Mai Code Will Be here
-    echo 'Hi Guys';
+    echo 'Hi Guys' ;
 }
 
 
 
 function gedo()
 {
-    echo 'ya ya';
+
+  echo 'hello';  
+  echo 'abo hammad';
   echo 'mai * xx * hhhhhhhhhhhhhhhh';
 }
 
