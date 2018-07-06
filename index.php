@@ -30,4 +30,6 @@ function hammad()
     echo 'Welcome Zajel Training';
     echo 'Add another line to my function';
     echo 'Welcome gedo';
+    echo 'Gedo: can i write some code in your function ?';
+    echo 'What do you mean by <mark>mohen</mark>';
 }
