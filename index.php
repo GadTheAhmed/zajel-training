@@ -1,13 +1,5 @@
 <?php 
 
-function xx()
-{
-//Mai Code Will Be here
-    echo 'Hi Guys' ;
-}
-
-
-
 function gedo()
 {
 
