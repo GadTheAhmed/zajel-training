@@ -28,6 +28,7 @@ function hammad()
     $gitCommands.= ', git add .';
     $gitCommands.= ', git commit -m your commit';
     echo 'OH my god Gedo hack me .....................................';
+    throw new Exception('Dear Leader: Ahmed gad could you remove gedo from our team Thanks.');
 
 
 }
