@@ -29,4 +29,5 @@ function hammad()
     $gitCommands.= ', git commit -m your commit';
     echo 'OH my god Gedo hack me .....................................';
 
+
 }
