@@ -1,9 +1,9 @@
 <?php 
 
-function mai()
+function xx()
 {
 //Mai Code Will Be here
-    echo 'Hi Guys';
+    echo 'Hi Guys ;
 }
 
 
