@@ -11,14 +11,14 @@ function xx()
 function gedo()
 {
 
-  echo 'mohen';  
+  echo 'mohemed';
   echo 'aaa';
   echo 'hello';  
   echo 'abo hammad';
   echo 'mai * xx * hhhhhhhhhhhhhhhh';
 
-  'ebo' != 'baskota';
-  'abo' == 'hadota';
+  echo  'ebo' != 'baskota';
+  echo ' abo' == 'hadota';
 
 
 }
@@ -31,5 +31,4 @@ function hammad()
     echo 'Add another line to my function';
     echo 'Welcome gedo';
     echo 'Gedo: can i write some code in your function ?';
-    echo 'What do you mean by <mark>mohen</mark>';
 }
