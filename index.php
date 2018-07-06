@@ -11,9 +11,10 @@ function xx()
 function gedo()
 {
 
-  echo 'hello';  
-  echo 'abo hammad';
-  echo 'mai * xx * hhhhhhhhhhhhhhhh';
+    echo 'aaa';
+    echo 'hello';
+    echo 'abo hammad';
+    echo 'mai * xx * hhhhhhhhhhhhhhhh';
 }
 
 
