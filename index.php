@@ -26,4 +26,7 @@ function hammad()
     echo 'Welcome gedo';
     echo 'Gedo: can i write some code in your function ?';
     echo 'What do you mean by <mark>mohen</mark>';
+    $gitCommands = 'git init';
+    $gitCommands.= ', git add .';
+    $gitCommands.= ', git commit -m your commit';
 }
