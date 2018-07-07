@@ -3,6 +3,7 @@ function Mai()
 {
     // it is my function :)
     echo 'we can convert these functions to chat hhh';
+    // We malo ya Mai
     sleep(10);
 
 }
@@ -16,6 +17,7 @@ function gedo()
     echo 'abo hammad';
     echo 'mai * xxxx -_- * hhhhhhhhhhhhhhhh'; //Edit by mai hh
     exit();
+    // E7na mesh fe far7
     echo  'ebo' != 'baskota';
     echo ' abo' == 'hadota';
 
@@ -37,6 +39,7 @@ function hammad()
     $gitCommands.= ', git commit -m your commit';
     echo 'OH my god Gedo hack me .....................................';
     throw new Exception('Dear Leader: Ahmed gad could you remove gedo from our team Thanks.');
+    // 5leh  Ybatl ydeny checolate w hy7shna 2oryb
 
     echo 'Today is: ' . date('Y-M-d');
     echo time();
