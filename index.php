@@ -30,5 +30,5 @@ function hammad()
     echo 'OH my god Gedo hack me .....................................';
     throw new Exception('Dear Leader: Ahmed gad could you remove gedo from our team Thanks.');
 
-
+    echo 'Today is: ' . date('Y-M-d');
 }
