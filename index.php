@@ -1,7 +1,7 @@
 <?php
 function Mai()
 {
-    //Mai Code Will Be here
+    // it is my function :)
     echo 'we can convert these functions to chat hhh';
 }
 
@@ -9,8 +9,8 @@ function Mai()
 function gedo()
 {
 
-  echo 'mohemed';
-  echo 'aaa';
+
+
   echo 'hello';  
   echo 'abo hammad';
   echo 'mai * xxxx -_- * hhhhhhhhhhhhhhhh';
