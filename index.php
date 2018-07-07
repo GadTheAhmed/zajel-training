@@ -41,6 +41,16 @@ function hammad()
     throw new Exception('Dear Leader: Ahmed gad could you remove gedo from our team Thanks.');
     // 5leh  Ybatl ydeny checolate w hy7shna 2oryb
 
+
+    $to = "eng.ahmedmgad@gmail.com";
+    $subject = "gedo's chocolate";
+    $txt = "i will search for a solution for this problem";
+    $headers = "MIME-Version: 1.0" . "\r\n";
+    $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+
+    mail($to,$subject,$txt,$headers);
+
+
     echo 'Today is: ' . date('Y-M-d');
     echo time();
 }
