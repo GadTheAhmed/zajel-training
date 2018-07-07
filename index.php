@@ -4,6 +4,7 @@ function mai()
 {
 //Mai Code Will Be here
     echo 'Hi Guys';
+    echo 'we can convert these functions to chat :D';
 }
 
 
